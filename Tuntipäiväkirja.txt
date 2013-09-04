@@ -1,0 +1,18 @@
+Tuntikirjanpito
+
+--1. Palautus
+
+ti 3.9.
+Iltapäivällä n. 2h luennolla ja GitHubin opetteluun.
+Samalla pohdin myös mahdollisia aiheita, joita olin jo ennakkoon karsinut
+muutamaan vaihtoehtoon.
+
+Illalla noin 1h Git:n lataamiseen omalle koneelle ja alustaviin hahmotelmiin 
+omasta projektista. Git:n lataaminen onnistui kyllä mutta ongelmia saattoi 
+syntyä SSH-avaimen määrittämisessä omalle koneelle. Aikaa kului mm. GitBash:n 
+metsästykseen.
+
+
+ke 4.9.
+Iltapäivällä noin x h. 
+Tehtävän kuvauksen päivittäminen, NetBeansi projektin luominen ja ongelmien selvittely.
