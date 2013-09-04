@@ -1,0 +1,55 @@
+
+Alustavaa teht‰v‰n kuvausta
+
+Laivanupotus
+
+
+Laivanupotus on kahden pelaajan lautapeli. Tarkoituksena on tuhota vastustajan laivasto.
+
+
+K‰ytt‰j‰t: Pelaaja 1 ja pelaaja 2
+
+K‰ytt‰jien toiminnot:
+
+Pelaajat:
+
+(toiminnot ovat identtiset mutta eiv‰t n‰e toistensa toimintoja)
+
+ - Valitsevat pelitavan 
+      - 2 pelaajaa [vai 1 vs tietokone]? /* sallitaanko molemmat vaihtoehdot */
+      - Laivojen m‰‰r‰t                  /* sallitaanko valittavaksi? */
+ - Aseta laivat
+ - Ammu
+     - n‰kev‰t vastustajan laudan ilman aluksia 
+
+Sovellus:
+
+ - M‰‰ritt‰‰ voittajan
+
+
+
+Tarkemmat s‰‰nnˆt ja kuvaus:
+ 
+
+Peli‰ pelataan kahdella pelialueella, joka kumpikin on jaettu 10*10 ruutuun. (halutaanko muokata kokoa?) Vaakarivii merkit‰‰n kirjaimet A-J ja pystyriviin numerot 1-10. Peli aloitetaan sijoittamalla omaan ruudukkoon omat laiva jotka ovat:
+
+    1 lentotukialus, kooltaan 5 ruutua pitk‰
+    1 taistelulaiva, kooltaan 4 ruutua pitk‰
+    2 risteilij‰‰, kooltaan 3 ruutua pitk‰
+    1 h‰vitt‰j‰, kooltaan 2 ruutua pitk‰
+    1 sukellusvene, kooltaan 1 ruutu
+
+tai esimerkiksi
+
+    1 lentotukialus, kooltaan 4 ruutua pitk‰
+    2 risteilij‰‰, kooltaan 3 ruutua pitk‰
+    3 h‰vitt‰j‰‰, kooltaan 2 ruutua pitk‰
+    4 sukellusvenett‰, kooltaan 1 ruutu
+
+Laivat eiv‰t saa koskettaa toisiaan kuin kulmittain, eiv‰tk‰ ne myˆsk‰‰n voi olla vinottain. Pelaajat eiv‰t saa n‰hd‰ toistensa laivastoja. Kun kumpikin pelaaja on asettanut laivansa peli alkaa. Vuorotellen kumpikin pelaaja ilmoittaa sen ruudun koordinaatit johon haluaa ampua, kuten F-5, jonka j‰lkeen toinen pelaaja ilmoittaa osuiko ammus. Osumasta saa lis‰vuoron.
+
+Kun laivan jokaiseen ruutuun on osunut ammus, laiva uppoaa. Silloin laivan menett‰nyt pelaaja ilmoittaa laivan uponneen. Vasemmanpuoleiseen ruudukkoon pelaaja merkitsee ampumansa ammukset. Jos ammus on osunut, merkit‰‰n rasti. Jos ammus menee ohi, merkit‰‰n ympyr‰. Kun pelaajan omaan laivaan osuu, osumakohta merkit‰‰n piirt‰m‰ll‰ siihen rasti. 
+
+Pelin voittaa pelaaja, joka ensimm‰isen‰ upottaa vihollisen koko laivaston.
+
+<l‰hde Wikipedia> 
