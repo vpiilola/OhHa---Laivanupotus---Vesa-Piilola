@@ -14,6 +14,9 @@ public class Laivanupotus {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       Pelaaja Risto = new Pelaaja("Risto");
+       
+        System.out.println(Risto.getNimi());
+        
     }
 }
