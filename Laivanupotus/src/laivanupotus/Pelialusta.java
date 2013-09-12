@@ -10,10 +10,16 @@ package laivanupotus;
  * @author vpiilola
  */
 public class Pelialusta {
-    private int koko;
+    private int leveys;
+    private int korkeus;
     
     public Pelialusta(){    //Pelialusta luodaan jokaista pelaajaa kohti?
-        this.koko=100;       //Onko tarpeen muokata kokoa?
+        this.leveys=10;
+        this.korkeus=10;    //Onko tarpeen muokata kokoa?
+    }
+    
+    public void katsoKoordinaatti(int x, int y){
+        
     }
     
 }
