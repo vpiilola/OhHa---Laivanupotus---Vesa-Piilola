@@ -14,5 +14,16 @@ mets‰stykseen.
 
 
 ke 4.9.
-Iltap‰iv‰ll‰ noin x h. 
+Iltap‰iv‰ll‰ noin 2 h. 
 Teht‰v‰n kuvauksen p‰ivitt‰minen, NetBeansi projektin luominen ja ongelmien selvittely.
+
+to 5.9. 
+Iltap√§iv√§ll√§ noin 1 h. 
+Luokkien pohtimiseen, Testien opetteluun.
+
+ke 11.9.
+Iltap√§iv√§ll√§ noin 1h.
+Testien opettelua, luokkien koodaamista.
+Pohdin mm. luokan "Laivatyyppi" j√§tt√§mist√§ my√∂hemp√§√§n vaiheesseen. Toteutetaan
+jos ehdit√§√§n laajennusvaiheeseen, jossa pelaajille annetaan valtuuksia valita
+laivoja.
